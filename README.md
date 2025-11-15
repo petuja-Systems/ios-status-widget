@@ -19,10 +19,10 @@ The widget supports **all three sizes** (Small, Medium, Large) and adjusts its l
 
 ## Screenshots
 ### Small  
-<img src="images/small.jpg" style="width:50%">
+<img src="images/small.jpg" style="width:50%; max-width:400px;">
 
 ### Medium  
-<img src="images/medium.jpg" style="width:50%">
+<img src="images/medium.jpg" style="width:50%; max-width:400px;">
 
 ### Large  
-<img src="images/large.jpg" style="width:50%">
+<img src="images/large.jpg" style="width:50%; max-width:400px;">
