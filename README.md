@@ -13,7 +13,7 @@ The widget supports **all three sizes** (Small, Medium, Large) and adjusts its l
 ## Installation
 1. Install **Scriptable** from the App Store  
 2. Create a new script  
-3. Paste the contents of `widget.js` into Scriptable  
+3. Paste the contents of `petuja_status_widget.js` into Scriptable  
 4. Add a Scriptable widget to your home screen  
 5. Select the script and you're done
 
